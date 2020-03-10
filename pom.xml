@@ -118,7 +118,7 @@
     <distributionManagement>
         <site>
             <id>shrek</id>
-            <url>scp://@shrek.unideb.hu:/home/misaizu/public_html/${project.artifactId}</url>
+            <url>scp://@shrek.unideb.hu:/home/<eduID>/public_html/${project.artifactId}</url>
         </site>
     </distributionManagement>
 </project>
